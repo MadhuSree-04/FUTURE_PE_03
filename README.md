@@ -1,22 +1,17 @@
 # Prompt Engineering Task 3 – Custom Chatbot Personas
 
 ## Overview
-This repository contains documentation for Task 3 of the Future Interns Prompt Engineering Internship.
+This repository contains the documentation for Task 3 of the Future Interns Prompt Engineering Internship.
 
 ## Deliverables
 - 3 Chatbot Persona Profiles
 - Sample Q&A flows (5+ exchanges per bot)
 - Screenshots of chatbot interactions
-- Demo link (screen recording)
+- Demo screen recording
 - Prompt strategy and tone control documentation
 
-## Tools Used
-- Chatbot.com
-- Google Drive (for demo video)
-- Microsoft Word (PDF documentation)
-
 ## Demo Video
-[Click here to view the screen recording](PASTE_YOUR_DRIVE_LINK_HERE)
+https://drive.google.com/file/d/1JRXd356FgwSWZ7XcrzcOXXf2-crzuihC/view
 
 ## Documentation
-The complete documentation is available in the uploaded PDF file.
+The complete documentation is provided in the uploaded PDF file.
